@@ -1,4 +1,13 @@
 ## Hi there 👋
+I am a computer science graduate with a minor in software development, who has a passion for learning new things and coming up with solutions to problems.
+
+### My developer roadmap milestones (since June 2024)
+[![roadmap.sh](https://roadmap.sh/card/wide/667840277dd4020aae74610a?variant=dark&roadmaps=java%2Cbackend%2Ccomputer-science%2Csql)](https://roadmap.sh)
+
+### Some statistics about my GitHub profile
+![](https://komarev.com/ghpvc/?username=raczmirko&style=for-the-badge&color=blueviolet&abbreviated=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raczmirko&show_icons=true&theme=blue-green)
 
 <!--
 **raczmirko/raczmirko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
